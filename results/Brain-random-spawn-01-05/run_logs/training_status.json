@@ -1,0 +1,65 @@
+{
+    "BrickBreakerAgent": {
+        "checkpoints": [
+            {
+                "steps": 65499994,
+                "file_path": "results\\Brain-random-spawn-01-05\\BrickBreakerAgent\\BrickBreakerAgent-65499994.onnx",
+                "reward": 3.0,
+                "creation_time": 1746213784.9983287,
+                "auxillary_file_paths": [
+                    "results\\Brain-random-spawn-01-05\\BrickBreakerAgent\\BrickBreakerAgent-65499994.pt"
+                ]
+            },
+            {
+                "steps": 65999982,
+                "file_path": "results\\Brain-random-spawn-01-05\\BrickBreakerAgent\\BrickBreakerAgent-65999982.onnx",
+                "reward": 22.0,
+                "creation_time": 1746214554.7437377,
+                "auxillary_file_paths": [
+                    "results\\Brain-random-spawn-01-05\\BrickBreakerAgent\\BrickBreakerAgent-65999982.pt"
+                ]
+            },
+            {
+                "steps": 66499988,
+                "file_path": "results\\Brain-random-spawn-01-05\\BrickBreakerAgent\\BrickBreakerAgent-66499988.onnx",
+                "reward": 37.8,
+                "creation_time": 1746215324.5359051,
+                "auxillary_file_paths": [
+                    "results\\Brain-random-spawn-01-05\\BrickBreakerAgent\\BrickBreakerAgent-66499988.pt"
+                ]
+            },
+            {
+                "steps": 66999945,
+                "file_path": "results\\Brain-random-spawn-01-05\\BrickBreakerAgent\\BrickBreakerAgent-66999945.onnx",
+                "reward": 16.0,
+                "creation_time": 1746216093.5434456,
+                "auxillary_file_paths": [
+                    "results\\Brain-random-spawn-01-05\\BrickBreakerAgent\\BrickBreakerAgent-66999945.pt"
+                ]
+            },
+            {
+                "steps": 67423285,
+                "file_path": "results\\Brain-random-spawn-01-05\\BrickBreakerAgent\\BrickBreakerAgent-67423285.onnx",
+                "reward": 41.666666666666664,
+                "creation_time": 1746216866.562489,
+                "auxillary_file_paths": [
+                    "results\\Brain-random-spawn-01-05\\BrickBreakerAgent\\BrickBreakerAgent-67423285.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 67423285,
+            "file_path": "results\\Brain-random-spawn-01-05\\BrickBreakerAgent.onnx",
+            "reward": 41.666666666666664,
+            "creation_time": 1746216866.562489,
+            "auxillary_file_paths": [
+                "results\\Brain-random-spawn-01-05\\BrickBreakerAgent\\BrickBreakerAgent-67423285.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.2.2+cu121"
+    }
+}

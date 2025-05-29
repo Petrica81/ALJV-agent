@@ -1,0 +1,47 @@
+{
+    "BrickBreakerAgent": {
+        "checkpoints": [
+            {
+                "steps": 515,
+                "file_path": "results\\Brain-normal-sac\\BrickBreakerAgent\\BrickBreakerAgent-515.onnx",
+                "reward": null,
+                "creation_time": 1747582493.6593764,
+                "auxillary_file_paths": [
+                    "results\\Brain-normal-sac\\BrickBreakerAgent\\BrickBreakerAgent-515.pt"
+                ]
+            },
+            {
+                "steps": 1028,
+                "file_path": "results\\Brain-normal-sac\\BrickBreakerAgent\\BrickBreakerAgent-1028.onnx",
+                "reward": null,
+                "creation_time": 1747582536.3673499,
+                "auxillary_file_paths": [
+                    "results\\Brain-normal-sac\\BrickBreakerAgent\\BrickBreakerAgent-1028.pt"
+                ]
+            },
+            {
+                "steps": 1540,
+                "file_path": "results\\Brain-normal-sac\\BrickBreakerAgent\\BrickBreakerAgent-1540.onnx",
+                "reward": null,
+                "creation_time": 1747582605.6825376,
+                "auxillary_file_paths": [
+                    "results\\Brain-normal-sac\\BrickBreakerAgent\\BrickBreakerAgent-1540.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1540,
+            "file_path": "results\\Brain-normal-sac\\BrickBreakerAgent.onnx",
+            "reward": null,
+            "creation_time": 1747582605.6825376,
+            "auxillary_file_paths": [
+                "results\\Brain-normal-sac\\BrickBreakerAgent\\BrickBreakerAgent-1540.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.2.2+cu121"
+    }
+}

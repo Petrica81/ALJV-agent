@@ -1,0 +1,47 @@
+{
+    "BrickBreakerAgent": {
+        "checkpoints": [
+            {
+                "steps": 499984,
+                "file_path": "results\\Brain-higher_strength\\BrickBreakerAgent\\BrickBreakerAgent-499984.onnx",
+                "reward": 86.33333333333333,
+                "creation_time": 1747589775.9767365,
+                "auxillary_file_paths": [
+                    "results\\Brain-higher_strength\\BrickBreakerAgent\\BrickBreakerAgent-499984.pt"
+                ]
+            },
+            {
+                "steps": 999971,
+                "file_path": "results\\Brain-higher_strength\\BrickBreakerAgent\\BrickBreakerAgent-999971.onnx",
+                "reward": null,
+                "creation_time": 1747590239.5301614,
+                "auxillary_file_paths": [
+                    "results\\Brain-higher_strength\\BrickBreakerAgent\\BrickBreakerAgent-999971.pt"
+                ]
+            },
+            {
+                "steps": 1000035,
+                "file_path": "results\\Brain-higher_strength\\BrickBreakerAgent\\BrickBreakerAgent-1000035.onnx",
+                "reward": null,
+                "creation_time": 1747590239.5912,
+                "auxillary_file_paths": [
+                    "results\\Brain-higher_strength\\BrickBreakerAgent\\BrickBreakerAgent-1000035.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1000035,
+            "file_path": "results\\Brain-higher_strength\\BrickBreakerAgent.onnx",
+            "reward": null,
+            "creation_time": 1747590239.5912,
+            "auxillary_file_paths": [
+                "results\\Brain-higher_strength\\BrickBreakerAgent\\BrickBreakerAgent-1000035.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.2.2+cu121"
+    }
+}

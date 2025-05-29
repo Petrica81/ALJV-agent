@@ -1,0 +1,65 @@
+{
+    "BrickBreakerAgent": {
+        "checkpoints": [
+            {
+                "steps": 4000002,
+                "file_path": "results\\Brain-bsr\\BrickBreakerAgent\\BrickBreakerAgent-4000002.onnx",
+                "reward": 73.0,
+                "creation_time": 1745859764.9613132,
+                "auxillary_file_paths": [
+                    "results\\Brain-bsr\\BrickBreakerAgent\\BrickBreakerAgent-4000002.pt"
+                ]
+            },
+            {
+                "steps": 4499980,
+                "file_path": "results\\Brain-bsr\\BrickBreakerAgent\\BrickBreakerAgent-4499980.onnx",
+                "reward": 78.0,
+                "creation_time": 1746006861.5185115,
+                "auxillary_file_paths": [
+                    "results\\Brain-bsr\\BrickBreakerAgent\\BrickBreakerAgent-4499980.pt"
+                ]
+            },
+            {
+                "steps": 4999972,
+                "file_path": "results\\Brain-bsr\\BrickBreakerAgent\\BrickBreakerAgent-4999972.onnx",
+                "reward": 109.0,
+                "creation_time": 1746007676.5052178,
+                "auxillary_file_paths": [
+                    "results\\Brain-bsr\\BrickBreakerAgent\\BrickBreakerAgent-4999972.pt"
+                ]
+            },
+            {
+                "steps": 5499995,
+                "file_path": "results\\Brain-bsr\\BrickBreakerAgent\\BrickBreakerAgent-5499995.onnx",
+                "reward": 105.0,
+                "creation_time": 1746008490.152742,
+                "auxillary_file_paths": [
+                    "results\\Brain-bsr\\BrickBreakerAgent\\BrickBreakerAgent-5499995.pt"
+                ]
+            },
+            {
+                "steps": 5995934,
+                "file_path": "results\\Brain-bsr\\BrickBreakerAgent\\BrickBreakerAgent-5995934.onnx",
+                "reward": null,
+                "creation_time": 1746009307.9342113,
+                "auxillary_file_paths": [
+                    "results\\Brain-bsr\\BrickBreakerAgent\\BrickBreakerAgent-5995934.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 5995934,
+            "file_path": "results\\Brain-bsr\\BrickBreakerAgent.onnx",
+            "reward": null,
+            "creation_time": 1746009307.9342113,
+            "auxillary_file_paths": [
+                "results\\Brain-bsr\\BrickBreakerAgent\\BrickBreakerAgent-5995934.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.2.2+cu121"
+    }
+}
